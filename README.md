@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattAkou
-- 👀 I’m interested in IoT and AI imprementation
+- 👀 I’m interested in IoT, AI imprementation, new technology and in general (in lossless) multimedia
 - 🌱 I’m currently learning python, AI, C++
 - 💞️ I’m looking to collaborate on multiple project, nothing special in mind
 - 📫 How to reach me ... Nothing at the moment ;)
